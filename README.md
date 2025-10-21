@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://i.imgur.com/5z9F6Ym.png" alt="Profile Header" width="100%" style="border-radius: 12px;"/>
+  <img src="https://i.pinimg.com/736x/ef/bc/c5/efbcc545ad763faf01d4fa80c316ec3f.jpg" alt="Profile Header" width="100%" style="border-radius: 12px;"/>
 </div>
 
 <h1 align="center">K t t s ™</h1>
