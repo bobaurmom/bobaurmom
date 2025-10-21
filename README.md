@@ -24,18 +24,26 @@
 ## 🎮 Current Status
 
 > **Currently Learning**  
-> Language learned: Javascript , C , C++ , HTML ,CSS, SQL 
+> - **JavaScript** (with ExpressJS — I find NestJS too heavy!)
+> - **C & C++** (for deeper understanding DSA)
+> - **HTML, CSS, SQL** (building full-stack project)
+> -  ▌║█║▌│║▌│║▌║▌█║Still learning — every commit is a step forward. ▌│║▌║▌│║║▌█║▌║█
+
 > *still loading...*
 
 ---
-
-## 🏆 Profile Awards & Badges
+## 🎀Tech I Use🎀
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Level-108-FF6B6B?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ensign-100%20XP-6A9955?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Badges-180-9E42C5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </div>
+
 
 ---
 
