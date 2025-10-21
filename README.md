@@ -18,7 +18,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bobaurmom&show_icons=true&theme=react-dark&border_radius=10&bg_color=0D1117&icon_color=FFFFFF&title_color=FF6B6B&text_color=FFFFFF" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobaurmom&layout=compact&theme=react-dark&border_radius=10&bg_color=0D1117&icon_color=FFFFFF&title_color=6A9955&text_color=FFFFFF" />
 </div>
-
+> 🖤 *“stats are glitching… like my soul.”*
 ---
 
 ## 🎮 Current Status
@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/Groups-111-6A9955?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Members-905-9E42C5?style=flat-square&logo=github&logoColor=white" />
 </div>
-
+---
+🪫・✦・🪫・✦・🪫・✦・🪫
 ---
 
-## 🖤 Footer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&textColor=FFFFFF&fontSize=20" />
