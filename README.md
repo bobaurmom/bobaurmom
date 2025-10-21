@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="[https://i.pinimg.com/736x/ef/bc/c5/efbcc545ad763faf01d4fa80c316ec3f.jpg"](https://github.com/bobaurmom/bobaurmom/raw/main/vid.git ) alt="Profile Header" width="100%" style="border-radius: 12px;"/>
+  <img src="https://github.com/bobaurmom/bobaurmom/raw/main/vid.git " alt="Profile Header" width="100%" style="border-radius: 12px;"/>
 </div>
 
 <h1 align="center">𝖜𝖊𝖑𝖈𝖔𝖒𝖊</h1>
