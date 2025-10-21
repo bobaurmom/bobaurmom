@@ -1,5 +1,6 @@
 <h1 align="center">Halloo👋, I'm Se Nita </h1>
 <h3 align="center">Im a CS student who loves building things that help with everyday life 💻</h3>
+![Visitor Badge](https://komarev.com/ghpvc/?username=bobaurmom&color=6A9955)
 
 <!-- Typing animation -->
 <p align="center">
@@ -38,4 +39,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-![Visitor Badge](https://komarev.com/ghpvc/?username=your-username&color=6A9955)
+
