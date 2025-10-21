@@ -7,7 +7,7 @@
 <h3 align="center">✧·.·°★ ·.·✧   I am Se Nita · ✧·.·°★ ·.·✧</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=currently+offline;debugging+my+existence;code+is+my+therapy;glitch+in+the+matrix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=currently+offline;debugging+my+existence;code+is+my+therapy;segmentation+fault" alt="Typing SVG" />
 </p>
 
 ---
