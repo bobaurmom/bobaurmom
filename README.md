@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/736x/ef/bc/c5/efbcc545ad763faf01d4fa80c316ec3f.jpg" alt="Profile Header" width="100%" style="border-radius: 12px;"/>
 </div>
 
-<h1 align="center">K t t s ™</h1>
+<h1 align="center">𝖜𝖊𝖑𝖈𝖔𝖒𝖊</h1>
 <h3 align="center">✧·.·°★ ·.·✧   Se Nita · 𝟡𝟡 · 🇯🇵   ✧·.·°★ ·.·✧</h3>
 
 <p align="center">
