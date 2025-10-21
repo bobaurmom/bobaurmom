@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=currently+offline;debugging+my+existence;code+is+my+therapy;segmentation+fault" alt="Typing SVG" />
 </p>
-![](https://komarev.com/ghpvc/?username=bobaurmom)
 ---
 
 ## 🌑 Profile Stats
@@ -28,7 +27,7 @@
 > - **JavaScript** (with ExpressJS — I find NestJS too heavy!)
 > - **C & C++** (for deeper understanding DSA)
 > - **HTML, CSS, SQL** (building full-stack project)
-> -  ▌║█║▌│║▌│║▌║▌█║Still learning — every commit is a step forward. ▌│║▌║▌│║║▌█║▌║█
+> - Still learning — every commit is a step forward.❗❗❗
 
 > *still loading...*
 
@@ -54,6 +53,7 @@
   <img src="https://img.shields.io/badge/Love-Pinterest-FF6B6B?style=flat-square&logo=pinterest&logoColor=white" />
   <img src="https://img.shields.io/badge/Groups-111-6A9955?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Members-905-9E42C5?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=bobaurmom&label=Profile+views&color=FF6B6B&style=for-the-badge" alt="GitHub Profile Views" />
 </div>
 ---
 
@@ -63,3 +63,4 @@
   <br>
   <i>“a medium is not a mess.” — me, probably</i>
 </div>
+
