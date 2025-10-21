@@ -12,11 +12,14 @@
 
 ---
 
+
 ## 🌑 Profile Stats
 
 <div align="center">
+  <!-- Overall GitHub Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bobaurmom&show_icons=true&theme=react-dark&border_radius=10&bg_color=0D1117&icon_color=FFFFFF&title_color=FF6B6B&text_color=FFFFFF" />
+  <!-- Top Languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobaurmom&layout=compact&theme=react-dark&border_radius=10&bg_color=0D1117&icon_color=FFFFFF&title_color=6A9955&text_color=FFFFFF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobaurmom&layout=compact&theme=react-dark&border_radius=10&bg_color=0D1117&icon_color=FFFFFF&title_color=FF6B6B" />
 </div>
 
 ---
