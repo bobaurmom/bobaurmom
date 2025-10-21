@@ -24,7 +24,7 @@
 </p>
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+### 🛠️ my tech stack (aka my emotional support languages)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,6 +34,8 @@
 
 <!-- Footer -->
 ---
+### 💌 thanks for stopping by!
 <p align="center">
-  <i>Thanks for visiting! ✨</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=your-username&color=6A9955)
