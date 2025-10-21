@@ -15,8 +15,8 @@
 ## 🌑 Profile Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobaurmom&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobaurmom&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobaurmom&show_icons=true&theme=github_dark&count_private=true&title_color=FF6B6B&icon_color=FF6B6B" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobaurmom&layout=compact&theme=github_dark&title_color=FF6B6B" />
 </p>
 > 🖤 *“stats are glitching… like my soul.”*
 ---
